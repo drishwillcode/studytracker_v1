@@ -1,7 +1,7 @@
 # studytracker_v1
 ##✨my class 12th CBSE final project✨
 
-The Study Tracker is a Python-based project designed to help students organize and monitor their academic preparation. 
+The Study Tracker is a simple Python-based CRUD project designed to help students organize and monitor their academic preparation. 
 
 features:
   track time remaining till an exam
